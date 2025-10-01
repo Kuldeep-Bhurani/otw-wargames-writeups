@@ -1,9 +1,11 @@
 # Over The Wire - Bandit
+```text
                          _                     _ _ _
                         | |__   __ _ _ __   __| (_) |_
                         | '_ \ / _` | '_ \ / _` | | __|
                         | |_) | (_| | | | | (_| | | |_
                         |_.__/ \__,_|_| |_|\__,_|_|\__|
+```
 
 Faced a bit of trouble with the levels marked `(*)` 
 I did them easily and learnt something new using the docs for levels marked with `(!)`
