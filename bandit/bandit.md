@@ -10,6 +10,43 @@
 Faced a bit of trouble with the levels marked `(*)` 
 I did them easily and learnt something new using the docs for levels marked with `(!)`
 
+## Navigation
+
+- [Level 0](#level0)
+- [Level 0 -> Level 1](#level0->level1)
+- [Level 1 -> Level 2](#level1->level2)
+- [Level 2 -> Level 3](#level2->level3)
+- [Level 3 -> Level 4](#level3->level4)
+- [Level 4 -> Level 5](#level4->level5)
+- [Level 5 -> Level 6](#level5->level6)
+- [Level 6 -> Level 7](#level6->level7)
+- [Level 7 -> Level 8](#level7->level8)
+- [Level 8 -> Level 9](#level8->level9)
+- [Level 9 -> Level 10](#level9->level10)
+- [Level 10 -> Level 11](#level10->level11)
+- [Level 11 -> Level 12](#level11->level12)
+- [Level 12 -> Level 13](#level12->level13)
+- [Level 13 -> Level 14](#level13->level14)
+- [Level 14 -> Level 15](#level14->level15)
+- [Level 15 -> Level 16](#level15->level16)
+- [Level 16 -> Level 17](#level16->level17)
+- [Level 17 -> Level 18](#level17->level18)
+- [Level 18 -> Level 19](#level18->level19)
+- [Level 19 -> Level 20](#level19->level20)
+- [Level 20 -> Level 21](#level20->level21)
+- [Level 21 -> Level 22](#level21->level22)
+- [Level 22 -> Level 23](#level22->level23)
+- [Level 23 -> Level 24](#level23->level24)
+- [Level 24 -> Level 25](#level24->level25)
+- [Level 25 -> Level 26](#level25->level26)
+- [Level 26 -> Level 27](#level26->level27)
+- [Level 27 -> Level 28](#level27->level28)
+- [Level 28 -> Level 29](#level28->level29)
+- [Level 29 -> Level 30](#level29->level30)
+- [Level 30 -> Level 31](#level30->level31)
+- [Level 31 -> Level 32](#level31->level32)
+- [Level 32 -> Level 33](#level32->level33)
+
 ## Level 0
 
 ```bash
