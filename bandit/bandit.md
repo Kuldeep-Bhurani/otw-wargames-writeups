@@ -12,8 +12,8 @@ I did them easily and learnt something new using the docs for levels marked with
 
 ## Navigation
 
-- [Level 0](#level0)
-- [Level 0 -> Level 1](#level0->level1)
+- [Level 0](#level-0)
+- [Level 0 -> Level 1](#level-0-->-level-1)
 - [Level 1 -> Level 2](#level1->level2)
 - [Level 2 -> Level 3](#level2->level3)
 - [Level 3 -> Level 4](#level3->level4)
